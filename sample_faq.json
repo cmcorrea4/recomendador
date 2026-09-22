@@ -1,0 +1,10 @@
+{
+  "¿Qué es un embedding?": "Un embedding es una representación numérica densa de un texto que captura su significado, ubicando frases similares cerca en un espacio vectorial.",
+  "¿Qué es el one-hot encoding?": "Es una representación donde cada palabra es un vector con un único 1 en la posición correspondiente del vocabulario y 0 en el resto; no captura significado.",
+  "¿Qué es la similitud del coseno?": "Es una medida que compara el ángulo entre dos vectores para determinar qué tan parecidos son en dirección (significado), sin importar su magnitud.",
+  "¿Qué es la tokenización?": "Es el proceso de dividir un texto en unidades más pequeñas, como oraciones o palabras, para poder analizarlas.",
+  "¿Qué son las stopwords?": "Son palabras muy frecuentes (como 'el', 'de', 'que') que aportan poco significado propio y suelen filtrarse antes del análisis.",
+  "¿Qué es PCA?": "Es una técnica de reducción de dimensionalidad que proyecta vectores de muchas dimensiones a 2 o 3 dimensiones para poder visualizarlos.",
+  "¿Qué es la Ley de Zipf?": "Es un patrón estadístico del lenguaje donde pocas palabras concentran la mayoría de las apariciones en un texto.",
+  "¿Qué modelo se usa para generar embeddings en este proyecto?": "Se usa sentence-transformers con un modelo multilingüe que corre localmente, sin necesidad de una API de pago."
+}
